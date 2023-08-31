@@ -1,1 +1,2 @@
-# all_ResNet_Implementations
+# All_ResNet_Implementations
+
